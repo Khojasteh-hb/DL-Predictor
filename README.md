@@ -1,4 +1,4 @@
-# DLPredictor
+# DL-Predictor
 Predicting breast cancer using deep learning
 
 # Environment Settings
