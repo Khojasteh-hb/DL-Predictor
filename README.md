@@ -11,4 +11,4 @@ You need just run the DLPredictor.py
 Change the directory of the dataset, and run it!
 
 # Contact
-If you have any questions, do not hesitate to contact us at khojasteh.hb@gmail.com, I will be happy to assist.
+If you have any questions, do not hesitate to contact me at khojasteh.hb@gmail.com, I will be happy to assist.
